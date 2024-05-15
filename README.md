@@ -1,11 +1,9 @@
 Perennial DToU, on SoLiD
 ======
 
-This repo is a meta-repo for the work about Perennial Data Terms of Use, particularly the paper *Perennial Semantic Data Terms of Use for Decentralized Web* accepted by the Web Conference (WWW) 2024, [DOI 10.1145/3589334.364563](https://doi.org/10.1145/3589334.36456311).
+This repo is a meta-repo for the work about Perennial Data Terms of Use, particularly the paper *Perennial Semantic Data Terms of Use for Decentralized Web* accepted by International World Wide Web Conference (WWW) 2024, [DOI 10.1145/3589334.364563](https://doi.org/10.1145/3589334.36456311).
 
 The work is performed at the [EWADA Project](https://ewada.ox.ac.uk/) at University of Oxford.
-
-
 
 ## Paper resources
 
@@ -17,11 +15,7 @@ The work is performed at the [EWADA Project](https://ewada.ox.ac.uk/) at Univers
 
 - Code (see below)
 
-
-
 ## Sub-repos
-
-
 
 There are several sub-repos for the code and systems mentioned in the paper:
 
